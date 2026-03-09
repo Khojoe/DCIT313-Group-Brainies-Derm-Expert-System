@@ -32,4 +32,4 @@ DermExpert is a knowledge-based expert system that simulates dermatologists' rea
 - **DZODZODZI CEDRICK**: Implements the Python interface and pyswip integration for user interaction.
 - **Juliet Adoma Minta**: Develops the Prolog knowledge base, rules, and inference engine.
 - **Amuzu Jonas Kudzo**: Handles testing, validation, and documentation updates.
-- **Asante Kojo Boakye**: Supports team efforts, contributes to code reviews and repo maintenance.
+- **Asante Kojo Boakye**: Supports team efforts, contributes to code reviews and repository maintenance.
