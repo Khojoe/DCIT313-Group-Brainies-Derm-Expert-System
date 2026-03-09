@@ -18,7 +18,7 @@ BRAINIES
 | DZODZODZI CEDRICK     | 22046156   | Programmer         |
 | Juliet Adoma Minta    | 22058472   | Programmer         |
 | Amuzu Jonas Kudzo     | 22198544   | Programmer         |
-| Asante Kojo Boakye    | 22065837   | Team Member        |
+| Asante Kojo Boakye    | 22065837   | Programmer         |
 
 ## System Purpose
 
