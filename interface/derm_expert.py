@@ -2,14 +2,14 @@ from pyswip import Prolog
 
 # Initialize Prolog
 prolog = Prolog()
-prolog.consult("../knowledge_base/skin_diseases.pl")  # Adjust path if needed
+prolog.consult("../knowledge_base/skin_diseases.pl")  
 
-# All unique symptoms from rules (expand as needed)
+# All unique symptoms from rules 
 symptoms_questions = [
     "itching", "circular_rash", "oily_skin", "pimples_with_pus",
     "dry_skin", "inflammation", "thick_silvery_scales", "red_patches",
     "redness", "swelling", "intense_itching", "rashes", "burrows"
-    # Add more like "duration_weeks > 2" or "affected_area = 'skin_folds'" for extension
+   
 ]
 
 # Collect user symptoms
