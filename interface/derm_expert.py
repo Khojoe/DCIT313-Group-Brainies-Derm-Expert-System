@@ -13,7 +13,11 @@ symptoms_questions = [
 ]
 
 # Collect user symptoms
-print("Welcome to DermExpert! Answer yes/no to symptoms. This is not medical advice—see a doctor.")
+print("="*60)
+print("Welcome to DermExpert (Command Line Interface)!")
+print("Did you know there is now a GUI? Run `python derm_expert_gui.py`!")
+print("="*60)
+print("Answer yes/no to symptoms. This is not medical advice. See a doctor after this.")
 for symptom in symptoms_questions:
     answer = input(f"Do you have {symptom.replace('_', ' ')}? (yes/no): ").strip().lower()
     if answer == "yes":
