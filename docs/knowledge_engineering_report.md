@@ -74,7 +74,22 @@ The knowledge base was mapped against the following primary medical sources to p
 - **URL**: [https://www.cdc.gov/ringworm/about/index.html](https://www.cdc.gov/ringworm/about/index.html)
 - **Mapping context**: The CDC emphasizes the itchy, circular or ring-shaped rash patterns. Crucial mapped advice includes using antifungal products while strictly avoiding steroid creams, which may mask symptoms and reduce the efficacy of actual treatments, worsening the initial infection.
 
-### 4. General Best Practices
+### 4. Rosacea
+- **Source**: Mayo Clinic
+- **URL**: [https://www.mayoclinic.org/diseases-conditions/rosacea/symptoms-causes/syc-20353815](https://www.mayoclinic.org/diseases-conditions/rosacea/symptoms-causes/syc-20353815)
+- **Mapping context**: Symptomatology drawn heavily from the distinct facial flushing, visibility of spider veins, and pimples that mirror acne (but without blackheads). Treatment centers heavily around aggressive sun protection, identifying complex environmental triggers, and seeking dermatological prescriptions.
+
+### 5. Hives (Urticaria)
+- **Source**: Cleveland Clinic
+- **URL**: [https://my.clevelandclinic.org/health/diseases/8630-hives](https://my.clevelandclinic.org/health/diseases/8630-hives)
+- **Mapping context**: Characterized distinctly by intensely itchy raised welts and underlying swelling (angioedema). Treatment mapping heavily emphasizes cooling (compresses/baths), antihistamines, and avoiding triggers. Vital emergent advice notes the connection to anaphylactic reactions.
+
+### 6. Melanoma
+- **Source**: Centers for Disease Control and Prevention (CDC)
+- **URL**: [https://www.cdc.gov/cancer/skin/basic_info/melanoma.htm](https://www.cdc.gov/cancer/skin/basic_info/melanoma.htm)
+- **Mapping context**: The most severe skin cancer correctly mapped to its hallmark "ABCDE" parameters, specifically capturing asymmetric moles, irregular borders, and visually evolving states. The advice unequivocally reflects the CDC emphasis on immediate professional intervention for high survivability.
+
+### 7. General Best Practices
 - Throughout the symptom gathering and advice generation, overarching insights from the World Health Organization (WHO) ensure a global standard emphasizing that our system represents a supportive preliminary check while deferring to local medical professionals for official diagnoses and prescriptions.
 
 ## Conclusion

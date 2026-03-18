@@ -8,8 +8,9 @@ prolog.consult("../knowledge_base/skin_diseases.pl")
 symptoms_questions = [
     "itching", "circular_rash", "oily_skin", "pimples_with_pus",
     "dry_skin", "inflammation", "thick_silvery_scales", "red_patches",
-    "redness", "swelling", "intense_itching", "rashes", "burrows"
-   
+    "redness", "swelling", "intense_itching", "rashes", "burrows",
+    "facial_flushing", "visible_veins", "raised_welts", 
+    "asymmetrical_moles", "irregular_borders", "evolving_moles"
 ]
 
 # Collect user symptoms

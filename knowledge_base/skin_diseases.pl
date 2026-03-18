@@ -8,6 +8,9 @@ rule(3, eczema, [dry_skin, itching, inflammation]).
 rule(4, psoriasis, [thick_silvery_scales, red_patches]).
 rule(5, dermatitis, [redness, swelling, itching]).
 rule(6, scabies, [intense_itching, rashes, burrows]).
+rule(7, rosacea, [facial_flushing, visible_veins, pimples_with_pus]).
+rule(8, hives, [raised_welts, intense_itching, swelling]).
+rule(9, melanoma, [asymmetrical_moles, irregular_borders, evolving_moles]).
 
 % Preliminary advice (Source-mapped to Mayo Clinic, Cleveland Clinic, CDC)
 advice(ringworm, "Likely a fungal infection (CDC). Use over-the-counter antifungal creams to treat mild cases. Also, keep the area dry/clean. Do not use steroid creams as they worsen it. Consult a doctor if severe.").
@@ -16,6 +19,9 @@ advice(eczema, "Possible atopic dermatitis (Cleveland Clinic). Moisturize daily,
 advice(psoriasis, "Chronic skin condition. Moisturize and use soothing topical treatments. Consult a doctor for systemic treatments or light therapy options.").
 advice(dermatitis, "General skin irritation. Avoid allergens or triggers, keep skin hydrated, and use anti-itch creams or cool compresses. See a doctor if it persists or blisters form.").
 advice(scabies, "Highly contagious mite infestation. Requires prescription medication like permethrin. Wash all bedding and clothing in hot water. Consult a doctor immediately.").
+advice(rosacea, "Chronic inflammatory condition (Mayo). Identify and avoid triggers (like sun, hot drinks, stress). Protect skin from sun with SPF. Consult a dermatologist for prescription creams or laser therapy.").
+advice(hives, "Raised welts resulting from an allergic reaction (Cleveland Clinic). Take cool baths, apply cold compresses, use over-the-counter antihistamines. Seek emergency care immediately if struggling to breathe.").
+advice(melanoma, "A serious form of skin cancer (CDC). The ABCDEs (Asymmetry, Border, Color, Diameter, Evolving) warn of melanoma. Immediate evaluation by a dermatologist or healthcare provider is critical for early detection and removal.").
 
 % Forward chaining inference engine
 forward_chain :-
