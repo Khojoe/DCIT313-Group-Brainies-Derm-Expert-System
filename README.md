@@ -10,15 +10,15 @@ BRAINIES
 
 ## Group Members
 
-| Name                  | Student ID | Role               |
-| --------------------- | ---------- | ------------------ |
-|        Khojoe         | 22243130   | Project Manager    |
-|     Kobbyaddison      | 22242385   | Knowledge Engineer |
-|   NanaEduTurkson      | 22012947   | Knowledge Engineer |
-|    Cedric-Raichand    | 22046156   | Programmer         |
-|    JulietMinta19      | 22058472   | Programmer         |
-|      major-svg        | 22198544   | Programmer         |
-|     KojoAsante1       | 22065837   | Programmer         |
+| Name                               | Student ID | Role               |
+| ---------------------------------- | ---------- | ------------------ |
+| Immanuel Oheneba Debe, Khojoe      | 22243130   | Project Manager    |
+| Asaph Adjei Ddjetey, Kobbyaddison  | 22242385   | Knowledge Engineer |
+| David Edu Turkson,  NanaEduTurkson | 22012947   | Knowledge Engineer |
+| Cedrick Dzodzodzi, Cedric-Raichand | 22046156   | Programmer         |
+| Juliet Adoma Minta, JulietMinta19  | 22058472   | Programmer         |
+| Jonas Amuzu Kudzo, major-svg       | 22198544   | Programmer         |
+| Asante Kojo Boakye, KojoAsante     | 22065837   | Programmer         |
 
 ## System Purpose
 
