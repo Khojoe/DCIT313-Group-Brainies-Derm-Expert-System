@@ -10,7 +10,7 @@ BRAINIES
 
 ## Group Members
 
-| Name                               | Student ID | Role               |
+| Name [Username]                              | Student ID | Role               |
 | ---------------------------------- | ---------- | ------------------ |
 | Immanuel Oheneba Debe [Khojoe ]     | 22243130   | Project Manager    |
 | Asaph Adjei Adjetey [Kobbyaddison]  | 22242385   | Knowledge Engineer |
