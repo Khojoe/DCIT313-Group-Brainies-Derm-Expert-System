@@ -12,13 +12,13 @@ BRAINIES
 
 | Name                               | Student ID | Role               |
 | ---------------------------------- | ---------- | ------------------ |
-| Immanuel Oheneba Debe, Khojoe      | 22243130   | Project Manager    |
-| Asaph Adjei Adjetey, Kobbyaddison  | 22242385   | Knowledge Engineer |
-| David Edu Turkson,  NanaEduTurkson | 22012947   | Knowledge Engineer |
-| Cedrick Dzodzodzi, Cedric-Raichand | 22046156   | Programmer         |
-| Juliet Adoma Minta, JulietMinta19  | 22058472   | Programmer         |
-| Jonas Amuzu Kudzo, major-svg       | 22198544   | Programmer         |
-| Asante Kojo Boakye, KojoAsante     | 22065837   | Programmer         |
+| Immanuel Oheneba Debe [Khojoe ]     | 22243130   | Project Manager    |
+| Asaph Adjei Adjetey [Kobbyaddison]  | 22242385   | Knowledge Engineer |
+| David Edu Turkson [NanaEduTurkson]| 22012947   | Knowledge Engineer |
+| Cedrick Dzodzodzi [Cedric-Raichand] | 22046156   | Programmer         |
+| Juliet Adoma Minta [JulietMinta19] | 22058472   | Programmer         |
+| Jonas Amuzu Kudzo[major-svg]      | 22198544   | Programmer         |
+| Asante Kojo Boakye [KojoAsante1]     | 22065837   | Programmer         |
 
 ## System Purpose
 
