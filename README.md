@@ -24,7 +24,7 @@ BRAINIES
 
 DermExpert is a knowledge-based expert system that simulates dermatologists' reasoning to diagnose common skin diseases such as Acne, Eczema, Psoriasis, Ringworm, Dermatitis, and Scabies. It uses forward chaining inference on user-provided symptoms to generate diagnoses, severity levels, preliminary advice, and explanations. Built for educational purposes in DCIT 313, it emphasizes that outputs are not a substitute for professional medical advice.
 
-## Individual Roles
+### Individual Roles
 
 - **Immanuel Oheneba Debe**: Oversees project coordination, timelines, and final integration.
 - **Adjei Asaph Adjetey**: Researches and acquires dermatological knowledge from sources like WHO and CDC, translates into rules.
