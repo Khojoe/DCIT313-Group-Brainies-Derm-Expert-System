@@ -13,7 +13,7 @@ BRAINIES
 | Name                               | Student ID | Role               |
 | ---------------------------------- | ---------- | ------------------ |
 | Immanuel Oheneba Debe, Khojoe      | 22243130   | Project Manager    |
-| Asaph Adjei Ddjetey, Kobbyaddison  | 22242385   | Knowledge Engineer |
+| Asaph Adjei Adjetey, Kobbyaddison  | 22242385   | Knowledge Engineer |
 | David Edu Turkson,  NanaEduTurkson | 22012947   | Knowledge Engineer |
 | Cedrick Dzodzodzi, Cedric-Raichand | 22046156   | Programmer         |
 | Juliet Adoma Minta, JulietMinta19  | 22058472   | Programmer         |
